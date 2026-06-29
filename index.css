@@ -1830,3 +1830,13 @@ img {
 .back-to-top:hover {
   transform: translateY(-4px) scale(1.1);
 }
+.about-nav-btn--download {
+  background: rgba(245, 158, 11, 0.1);
+  border-color: rgba(245, 158, 11, 0.3);
+  color: var(--amber-400);
+}
+
+.about-nav-btn--download:hover {
+  background: rgba(245, 158, 11, 0.2);
+  border-color: var(--amber-500);
+}
