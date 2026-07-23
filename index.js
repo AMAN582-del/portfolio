@@ -287,8 +287,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const designationsEl = document.querySelector('.hero-designations');
   if (designationsEl) {
     const roles = [
-      'Computer Science Student',
+      'Data Science Student',
       'Aspiring Data Analyst',
+      'Ai/ML Enthusiast',
       'Full Stack Developer',
       'UI/UX Designer'
     ];
